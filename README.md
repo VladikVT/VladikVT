@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladikVT
 - 👀 I’m interested in programming, games and movies
-- 🌱 I’m currently learning school
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on web-sites
 - 📫 How to reach me: 
     My VK - vk.com/mr_vladik112
