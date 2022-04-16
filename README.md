@@ -18,7 +18,7 @@ int main()
     /** DESCRIPTION **/
     VladikVT.smallDescription = "
         Born in 2005 year. Currently studying in college to be a system administrator.
-        Started programming from 9 y.o. Positoins itself as a game developer.
+        Started programming from 9 y.o. Positions itself as a game developer.
         Likes math, science, programming, games and food.
         ";
     VladikVT.currentProject   = "SimpConGraph"; // https://github.com/VladikVT/SimpConGraph
