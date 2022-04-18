@@ -24,6 +24,11 @@ int main()
     VladikVT.currentProject   = "SimpConGraph"; // https://github.com/VladikVT/SimpConGraph
     VladikVT.job              = "Programmer";
     VladikVT.PL               = "C++, Python, GDScript";
+    VladikVT.links = [
+        "vk.com/mr_vladik112",
+        "notabug.org/vladikvt",
+        "deadgames-studio.itch.io/"
+    ]
     /** DESCRIPTION **/
     
     while (VladikVT.live)
