@@ -30,8 +30,8 @@ int main()
         "deadgames-studio.itch.io/"
     };
     VladikVT.projects = {
-        "![SimpConGraph](https://github.com/VladikVT/SimpConGrapf)",
-        "unity"                // https://github.com/VladikVT/unity
+        "SimpConGraph",    // https://github.com/VladikVT/SimpConGrapf
+        "unity"            // https://github.com/VladikVT/unity
     };
     /** DESCRIPTION **/
     
