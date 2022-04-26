@@ -38,7 +38,7 @@ int main()
     while (VladikVT.live)
     {
         VladikVT.programming();
-    } 
+    }
      
     return 0;
 }
