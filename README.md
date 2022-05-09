@@ -39,7 +39,7 @@ int main()
     {
         VladikVT.programming();
     }
-   
+    
     return 0;
 }
 ```
