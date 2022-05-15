@@ -32,7 +32,8 @@ int main()
     VladikVT.projects = {
         "SimpConGraph",    // https://github.com/VladikVT/SimpConGrapf
         "unity",           // https://github.com/VladikVT/unity
-        "lost-dungeon"     // https://github.com/VladikVT/lost-dungeon
+        "lost-dungeon",    // https://github.com/VladikVT/lost-dungeon
+        "TelNet chat"      // https://github.com/VladikVT/tn-chat
     };
     /** DESCRIPTION **/
     
