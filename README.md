@@ -1,8 +1,5 @@
 ```c++
-#include <iostream>
-#include <human.h>
-
-using namespace std;
+#include "human.h"
 
 int main()
 {
@@ -10,7 +7,7 @@ int main()
     
     /** MAIN INFO **/
     VladikVT.name    = "Vladislav Timirbaev";
-    VladikVT.age     = "16";
+    VladikVT.age     = 16;
     VladikVT.country = "Russia";
     VladikVT.live    = true;
     /** MAIN INFO **/
@@ -23,7 +20,7 @@ int main()
         ";
     VladikVT.currentProject   = "lost-dungeon";    // https://github.com/VladikVT/lost-dungeon
     VladikVT.job              = "Programmer";
-    VladikVT.PL               = "C++, Python, GDScript";
+    VladikVT.PL               = {"C++", "Python", "GDScript"};
     VladikVT.links = {
         "vk.com/mr_vladik112",
         "notabug.org/vladikvt",
