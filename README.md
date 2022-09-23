@@ -18,9 +18,9 @@ int main()
         Started programming from 9 y.o. Positions itself as a game developer.
         Likes math, science, programming, games and food.
         ";
-    VladikVT.currentProject   = "lost-dungeon";    // https://github.com/VladikVT/lost-dungeon
-    VladikVT.job              = "Programmer";
-    VladikVT.PL               = {"C++", "Python", "GDScript"};
+    VladikVT.currentProject = "StartPage";    // https://github.com/VladikVT/StartPage
+    VladikVT.job            = "Programmer";
+    VladikVT.PL             = {"C++", "Python", "GDScript"};
     VladikVT.links = {
         "vk.com/mr_vladik112",
         "notabug.org/vladikvt",
@@ -30,7 +30,8 @@ int main()
         "SimpConGraph",    // https://github.com/VladikVT/SimpConGrapf
         "unity",           // https://github.com/VladikVT/unity
         "lost-dungeon",    // https://github.com/VladikVT/lost-dungeon
-        "TelNet chat"      // https://github.com/VladikVT/tn-chat
+        "TelNet chat",     // https://github.com/VladikVT/tn-chat
+        "StartPage"        // https://github.com/VladikVT/StartPage
     };
     /** DESCRIPTION **/
     
