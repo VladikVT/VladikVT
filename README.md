@@ -7,7 +7,7 @@ int main()
     
     /** MAIN INFO **/
     VladikVT.name    = "Vladislav Timirbaev";
-    VladikVT.age     = 17;
+    VladikVT.age     = 19;
     VladikVT.country = "Russia";
     VladikVT.live    = true;
     /** MAIN INFO **/
