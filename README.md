@@ -6,21 +6,21 @@ int main()
     human VladikVT();
     
     /** MAIN INFO **/
-    VladikVT.name    = "Vladislav Timirbaev";
-    VladikVT.age     = 19;
+    VladikVT.nam = "Vladislav Timirbaev";
+    VladikVT.age = 20;
     VladikVT.country = "Russia";
-    VladikVT.live    = true;
+    VladikVT.live = true;
     /** MAIN INFO **/
     
     /** DESCRIPTION **/
     VladikVT.smallDescription = "
-        Born in 2005 year. Currently studying in college to be a system administrator.
+        Born in 2005 year. Currently work in Ufanet.
         Started programming from 9 y.o. Positions itself as a game developer.
         Likes math, science, programming, games and food.
         ";
-    VladikVT.currentProject = "StartPage";    // https://github.com/VladikVT/StartPage
-    VladikVT.job            = "Programmer";
-    VladikVT.PL             = {"C++", "Python", "GDScript"};
+    VladikVT.currentProject = "";    // Private
+    VladikVT.job = "Programmer";
+    VladikVT.PL = {"C++", "Python", "GDScript", "Golang", "JavaScript"};
     VladikVT.links = {
         "https://vk.com/mr_vladik112",
         "https://notabug.org/vladikvt",
